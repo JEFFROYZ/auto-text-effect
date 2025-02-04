@@ -1,1 +1,1 @@
-# auto-text-effect
+simple code for auto text effect
